@@ -12,3 +12,6 @@ Green Lightning:
 
 Sunset Spider:
 ![Sunset Spider](https://i.imgur.com/rUClXTo.png)
+
+Fractal Zoom:
+![Fractal Zoom](output.gif)
